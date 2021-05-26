@@ -1,0 +1,4 @@
+bestPrecision: Comp: 3 Edge: 0.75 Dist: 0.25 Valor: 0.875886524822695
+bestRecall: Comp: 2 Edge: 0.25 Dist: 0.25 Valor: 0.9820143884892086
+bestF1: Comp: 3 Edge: 0.75 Dist: 0.25 Valor: 0.8821428571428572
+bestAccuracy: Comp: 3 Edge: 0.75 Dist: 0.25 Valor: 0.8595744680851064

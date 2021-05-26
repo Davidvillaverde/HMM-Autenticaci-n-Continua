@@ -1,0 +1,4 @@
+bestPrecision: Comp: 4 Valor: 0.6521739130434783
+bestRecall: Comp: 2 Valor: 0.9928057553956835
+bestF1: Comp: 4 Valor: 0.7803468208092486
+bestAccuracy: Comp: 4 Valor: 0.676595744680851

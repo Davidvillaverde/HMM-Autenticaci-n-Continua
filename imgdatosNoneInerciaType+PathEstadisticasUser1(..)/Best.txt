@@ -1,0 +1,1 @@
+bestPrecision: Comp: 6_Edge: 0.25_Dist: 0.5bestRecall: Comp: 2_Edge: 0.25_Dist: 0.75bestF1: Comp: 6_Edge: 0.25_Dist: 0.5bestAccuracy: Comp: 6_Edge: 0.25_Dist: 0.5
